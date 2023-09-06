@@ -1,15 +1,16 @@
-#remote_theme: pages-themes/dinky@v0.2.0
-theme: minima
+#remote_theme: pages-themes/architect@v0.2.0
+#theme: minima
+theme: jekyll-theme-architect
 plugins:
-#- jekyll-remote-theme
+#  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
-title: Quantentheorie ohne Prozess Typ 2
+title: Quantentheorie ohne Prozess-Typ 2
 description: >
-  Die Lösung des Messproblems der Quantenmechanik durch die Unterscheidung in echte (psychische) und scheinbare (physikalische) Zeiten.
-  Einführung eines Zeitoperators. Abfolgen von Blockuniversen, die physikalische Zeiten beinhalten, in der psychischen Zeit.
-  Schmidt-Zerlegungen des Hilbertraums definiert durch die Beobachter (Subjekte).
-show_downloads: true
+  Lösung des Messproblems der Quantenmechanik durch Verwendung eines einzigen Prozess-Typs -
+  Einführung eines Zeitoperators - Abfolgen von Blockuniversen, die physikalische (scheinbare) Zeiten beinhalten, in der psychischen (wirklichen) Zeit -
+  Schmidt-Zerlegungen des Hilbertraums, Verschränkung und Entropie definiert durch die Beobachter
+show_downloads: false
 author:
   name: Harald Rieder
 
